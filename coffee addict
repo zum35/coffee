@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="UTF-8" />
+  <title>Book Store</title>
+  <meta name="description" content="This Is Our Book Store" />
+</head>
+
+<body>
+  <img src="https://images.pexels.com/photos/20638170/pexels-photo-20638170/free-photo-of-kahve-fincan-kupa-cappuccino.jpeg?auto=compress&cs=tinysrgb&w=200" alt="coffeestore">
+  <div class="header">
+    <h2>Coffee Addict V2</h2>
+    <ul>
+      <li><a href="https://www.google.com">Home</li></a>
+      <li><a href="https://www.google.com">About</li></a>
+      <li><a href="https://www.google.com">Numbers</li></a>
+      <li><a href="https://www.google.com">Contact </li></a>
+    </ul>
+<h3>Featured Products</h3>
+<h4>House Blend Coffee</h4>
+<img src="https://images.pexels.com/photos/14187822/pexels-photo-14187822.jpeg?auto=compress&cs=tinysrgb&w=600" alt="House Blend Coffee" width="150">
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi quisquam illo similique fugit earum delectus, eaque, deserunt impedit, asperiores quibusdam nam enim rem commodi eius consectetur perspiciatis nobis necessitatibus corrupti exercitationem eos dicta quos itaque aspernatur accusantium? Facere ipsam inventore, porro quia, voluptates nulla deleniti officiis cumque molestiae id at.<a href="www.google.com">Details</a></p>
+<h4>French Roast Coffee</h4>
+<img src="https://images.pexels.com/photos/16494031/pexels-photo-16494031/free-photo-of-kahve-icecekler-cappuccino-fincanlar.jpeg?auto=compress&cs=tinysrgb&w=600" alt="French Roast Coffee" width="150">
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi quisquam illo similique fugit earum delectus, eaque, deserunt impedit, asperiores quibusdam nam enim rem commodi eius consectetur perspiciatis nobis necessitatibus corrupti exercitationem eos dicta quos itaque aspernatur accusantium? Facere ipsam inventore, porro quia, voluptates nulla deleniti officiis cumque molestiae id at.<a href="www.google.com">Details</a>
+  </div>
+  <hr />
+ <p>Copyright©2022
+</body>
+
+</html>
